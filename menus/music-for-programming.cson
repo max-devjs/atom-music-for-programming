@@ -1,0 +1,11 @@
+'menu': [
+  {
+    'label': 'Packages'
+    'submenu': [
+      'label': 'Music for programming'
+      'submenu': [
+        { 'label': 'Toggle', 'command': 'music-for-programming:toggle' }
+      ]
+    ]
+  }
+]

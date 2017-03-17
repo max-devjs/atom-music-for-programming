@@ -1,0 +1,8 @@
+'.platform-darwin':
+  'F4': 'music-for-programming:toggle'
+
+'.platform-win32':
+  'F4': 'music-for-programming:toggle'
+
+'.platform-linux':
+  'F4': 'music-for-programming:toggle'

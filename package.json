@@ -1,0 +1,15 @@
+{
+  "name": "atom-music-for-programming",
+  "version": "0.1.0",
+  "description": "Loads http://musicforprogramming.net/ in a minimalistic web browser in Atom",
+  "main": "./lib/web",
+  "repository": "https://github.com/max-devjs/atom-music-for-programming",
+  "license": "MIT",
+  "readme": "readme.md",
+  "engines": {
+    "atom": "*"
+  },
+  "dependencies": {},
+  "devDependencies": {
+  }
+}
